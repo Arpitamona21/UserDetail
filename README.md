@@ -7,7 +7,7 @@
 Check UserData.py
 
 ## Installation:
-Clone the repository: https://github.com/Arpitamona21/UserDetails.git
+Clone the repository: https://github.com/Arpitamona21/UserDetail.git
 
 Install python dependencies : `pip install -r requirements.txt`
 
